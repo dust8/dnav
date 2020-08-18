@@ -34,6 +34,12 @@ let sites = [
         slogan: "github release、archive以及项目文件的加速项目",
         link: "//shrill-pond-3e81.hunsh.workers.dev",
       },
+      {
+        name: "devhints",
+        logo: "./static/img/devhints.png",
+        slogan: "Rico's cheatsheets",
+        link: "//devhints.io",
+      },
     ],
   },
   {
