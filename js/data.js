@@ -40,6 +40,12 @@ let sites = [
         slogan: "Rico's cheatsheets",
         link: "//devhints.io",
       },
+      {
+        name: "Refactoring.Guru",
+        logo: "./static/img/refactoringguru.ico",
+        slogan: "免费在线学习代码重构和设计模式",
+        link: "//refactoringguru.cn/",
+      },
     ],
   },
   {
