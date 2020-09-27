@@ -50,7 +50,7 @@ let sites = [
         name: "图之典",
         logo: "./static/img/tuzhidian.ico",
         slogan: "可视化图表的词典",
-        link: "//http://tuzhidian.com",
+        link: "//tuzhidian.com",
       },
     ],
   },
