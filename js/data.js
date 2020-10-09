@@ -50,7 +50,25 @@ let sites = [
         name: "图之典",
         logo: "./static/img/tuzhidian.ico",
         slogan: "可视化图表的词典",
-        link: "//tuzhidian.com",
+        link: "http://tuzhidian.com",
+      },
+    ],
+  },
+  {
+    id: "ebook",
+    title: "电子书",
+    childrens: [
+      {
+        name: "SaltTiger",
+        logo: "./static/img/salttiger.ico",
+        slogan: "每天一本编程书，每天进步一点点",
+        link: "//salttiger.com",
+      },
+      {
+        name: "coderprog",
+        logo: "./static/img/coderprog.png",
+        slogan: "Ebooks & Elearning For Programming",
+        link: "//coderprog.com",
       },
     ],
   },
