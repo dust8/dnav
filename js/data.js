@@ -29,6 +29,12 @@ let sites = [
         link: "//cssreference.io",
       },
       {
+        name: "FastGit",
+        logo: "",
+        slogan: "FastGit 是一个对于 GitHub.com 的镜像加速器",
+        link: "//doc.fastgit.org/zh-cn/guide.html",
+      },
+      {
         name: "GitHub 文件加速",
         logo: "./static/img/workers.png",
         slogan: "github release、archive以及项目文件的加速项目",
@@ -51,6 +57,13 @@ let sites = [
         logo: "./static/img/tuzhidian.ico",
         slogan: "可视化图表的词典",
         link: "http://tuzhidian.com",
+      },
+      {
+        name: "Papers with Code",
+        logo: "./static/img/paperswithcode.ico",
+        slogan:
+          "Papers with Code 的使命是创建一个包含机器学习论文、代码、数据集、方法和评估表的免费开放资源。",
+        link: "//paperswithcode.com",
       },
     ],
   },
