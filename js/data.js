@@ -103,4 +103,16 @@ let sites = [
       },
     ],
   },
+  {
+    id: "tupian",
+    title: "图片",
+    childrens: [
+      {
+        name: "unsplash",
+        logo: "https://unsplash.com/apple-touch-icon.png",
+        slogan: "Beautiful Free Images & Pictures",
+        link: "//unsplash.com/",
+      },
+    ],
+  },
 ];
