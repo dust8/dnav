@@ -114,5 +114,16 @@ let sites = [
         link: "//unsplash.com/",
       },
     ],
+  },{
+    id: "zixun",
+    title: "资讯",
+    childrens: [
+      {
+        name: "livevideostack",
+        logo: "https://lvs-pro.oss-cn-beijing.aliyuncs.com/2020/07/短logo.png",
+        slogan: "成为全球领先的多媒体生态服务平台",
+        link: "//www.livevideostack.cn/",
+      },
+    ],
   },
 ];
